@@ -1,8 +1,7 @@
 module github.com/avanha/pmaas-assembly-minimal
 
-go 1.25.7
+go 1.26
 
-require (
-	github.com/avanha/pmaas-core v0.0.1 // indirect
-	github.com/avanha/pmaas-spi v0.0.0 // indirect
-)
+require github.com/avanha/pmaas-core v0.0.4
+
+require github.com/avanha/pmaas-spi v0.0.7 // indirect
