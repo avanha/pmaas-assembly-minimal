@@ -1,6 +1,6 @@
-github.com/avanha/pmaas-common v0.0.3 h1:XFagMBTBRpXz/HJK8Rl0fcs0x66Ihf8Leyqc5Cl9kMQ=
-github.com/avanha/pmaas-common v0.0.3/go.mod h1:XkhgGSpKVnLrNbsuQLcuxzczTeMrf+FDZBhfxA+nJAY=
-github.com/avanha/pmaas-core v0.0.5 h1:c1jKpq7XqOeF6Xu2bIyTgYDUaYiZpsUIHcjlNG3iuvc=
-github.com/avanha/pmaas-core v0.0.5/go.mod h1:zPRWHUByAXM3rAC5p1XvX9MCsSxJcFx/CiOjxa0Ahvw=
-github.com/avanha/pmaas-spi v0.0.8 h1:KM3cj+Noxcnl6wmeHm4Lv+jBs+G8UqFX1W4JKH98oJ0=
-github.com/avanha/pmaas-spi v0.0.8/go.mod h1:vKV8Ke5QXei42A4agIgxypbznjLqFQyi2hvqSyoe7c0=
+github.com/avanha/pmaas-common v0.0.4 h1:SzfEeUO21jTB88wW8kebYPa4LrCDDLq6lwBcXtObmOE=
+github.com/avanha/pmaas-common v0.0.4/go.mod h1:XkhgGSpKVnLrNbsuQLcuxzczTeMrf+FDZBhfxA+nJAY=
+github.com/avanha/pmaas-core v0.0.6 h1:d5t0H3xEblpmxC8swABPCtsO3dOv7xMZT+1k9SKpz/8=
+github.com/avanha/pmaas-core v0.0.6/go.mod h1:c1+h9usy4txtg+AME1NVAIju8l7aD1YE/ZuAQaDM5uM=
+github.com/avanha/pmaas-spi v0.0.9 h1:mhAfS7WZ1+tI7AtGgSg3juVuaND0X4tS4YgoL1GHS9s=
+github.com/avanha/pmaas-spi v0.0.9/go.mod h1:vKV8Ke5QXei42A4agIgxypbznjLqFQyi2hvqSyoe7c0=
