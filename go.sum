@@ -1,6 +1,6 @@
 github.com/avanha/pmaas-common v0.0.4 h1:SzfEeUO21jTB88wW8kebYPa4LrCDDLq6lwBcXtObmOE=
 github.com/avanha/pmaas-common v0.0.4/go.mod h1:XkhgGSpKVnLrNbsuQLcuxzczTeMrf+FDZBhfxA+nJAY=
-github.com/avanha/pmaas-core v0.0.6 h1:d5t0H3xEblpmxC8swABPCtsO3dOv7xMZT+1k9SKpz/8=
-github.com/avanha/pmaas-core v0.0.6/go.mod h1:c1+h9usy4txtg+AME1NVAIju8l7aD1YE/ZuAQaDM5uM=
+github.com/avanha/pmaas-core v0.0.7 h1:zJB0pm0NNRPWZNDx2xHltPuYiF2kALnoVYs7lz9R8Rc=
+github.com/avanha/pmaas-core v0.0.7/go.mod h1:c1+h9usy4txtg+AME1NVAIju8l7aD1YE/ZuAQaDM5uM=
 github.com/avanha/pmaas-spi v0.0.9 h1:mhAfS7WZ1+tI7AtGgSg3juVuaND0X4tS4YgoL1GHS9s=
 github.com/avanha/pmaas-spi v0.0.9/go.mod h1:vKV8Ke5QXei42A4agIgxypbznjLqFQyi2hvqSyoe7c0=
